@@ -13,3 +13,6 @@ Use like this
 warning: 
    from_base94('a').from_base94('b')!= from_base94('ab')
 
+
+
+Before you use it, install module Math::Base85 from CPAN
